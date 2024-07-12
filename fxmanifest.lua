@@ -5,5 +5,3 @@ lua54 'yes'
 client_scripts{
     'client.lua'
 }
-
-shared_script '@es_extended/imports.lua'
